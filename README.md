@@ -1,3 +1,6 @@
+# Tic-Tac-Toe Project
+This project was built alongside a [tutorial](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial) from React's webpage.  I, Taylor, will be continuing to update this project with stretch features in an effort to continue practicing my React skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
